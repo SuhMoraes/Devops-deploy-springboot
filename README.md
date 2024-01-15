@@ -17,7 +17,7 @@
 2. Adicione as dependências do Spring Web, JPA, Lombok e outras necessárias.
 
 ## Passo 2: Criação da Entity, Controller, Repository
-- Crie as entidades, controladores e repositórios necessários para a aplicação Spring Boot.
+- Crie a entidade, o controller e o repository para a aplicação Spring Boot.
 
 ## Passo 3: Implementação do Swagger
 - Adicione a dependência do Swagger ao seu projeto no arquivo `pom.xml`:
