@@ -1,4 +1,4 @@
-# Documentação do Projeto: Deploy API Spring Boot + PostgreSQL no Railway
+# Deploy API Spring Boot + PostgreSQL no Railway
 
 ## Ferramentas Utilizadas
 - Java 17
